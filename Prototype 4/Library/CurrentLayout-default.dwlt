@@ -123,7 +123,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 140
+  controlID: 128
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -148,7 +148,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 18
+  controlID: 42
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -343,7 +343,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Course Library/Powerup Indicators
+    - Assets/Course Library/Pickups
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
@@ -358,7 +358,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: fe3e0000
     m_LastClickedID: 16126
-    m_ExpandedIDs: 00000000543e0000563e0000583e00005a3e0000
+    m_ExpandedIDs: 00000000663e0000683e00006a3e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -386,7 +386,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 15.400024}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000543e0000563e0000823e0000
+    m_ExpandedIDs: ffffffff00000000663e0000683e00006a3e00009a3e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -529,7 +529,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.3539313, y: -0.065846756, z: 0.024999797, w: -0.9326269}
     speed: 2
-    m_Value: {x: -0.35392758, y: -0.06584606, z: 0.024999535, w: -0.9326171}
+    m_Value: {x: -0.3539313, y: -0.065846756, z: 0.024999797, w: -0.9326269}
   m_Size:
     m_Target: 1.299038
     speed: 2
